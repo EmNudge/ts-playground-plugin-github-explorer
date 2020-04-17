@@ -3,6 +3,9 @@
   "description": "Explore a github repo on typescript playground",
   "version": "0.0.1",
   "main": "dist/index.js",
+  "keywords": [
+    "playground-plugin"
+  ],
   "license": "MIT",
   "scripts": {
     "build": "rollup -c rollup.config.js;",
